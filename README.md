@@ -18,7 +18,7 @@ This project scrapes product names and prices from a website and exports the dat
 - Handles multiple products
 - Saves data in CSV format
 
-## Output
+## Output 
 The scraped data is saved as:
 - products.csv
 
